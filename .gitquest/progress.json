@@ -5,14 +5,16 @@
     "14.1": 1,
     "14.2": 2,
     "14.3": 4,
-    "15.1": 5
+    "15.1": 5,
+    "15.2": 7
   },
   "issues": {},
   "prs": {
-    "plan": 3
+    "plan": 3,
+    "handover": 6
   },
   "review": {},
-  "chunk": "15.1",
+  "chunk": "15.2",
   "complete": false,
   "handled": [
     3

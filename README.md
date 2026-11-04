@@ -23,8 +23,8 @@ here; you send your changes back with Git.
 | **M14 · On the Other End** | M14.1 · Take the request | Done ([#1](../../issues/1)) |
 |  | M14.2 · Open a pull request | Done ([#2](../../issues/2)) |
 |  | M14.3 · Check and merge | Done ([#4](../../issues/4)) |
-| **M15 · A Green Check** | M15.1 · Send the handover draft | **Current:** [#5](../../issues/5) |
-|  | M15.2 · Fix the failed check | Up next |
+| **M15 · A Green Check** | M15.1 · Send the handover draft | Done ([#5](../../issues/5)) |
+|  | M15.2 · Fix the failed check | **Current:** [#7](../../issues/7) |
 |  | M15.3 · Report the discrepancy | Up next |
 |  | M15.4 · Answer the review and merge | Up next |
 | **M16 · Leave It for the Next Shift** | M16.1 · Review Mika's pull request | Up next |
